@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single"
+        android:id="@+id/group">
+
+        <item android:title="About us"
+android:icon="@mipmap/info"
+            android:id="@+id/about"/>
+        <item android:title="Terms"
+            android:id="@+id/terms"
+            android:icon="@drawable/threelines"/>
+        <item android:title="Language"
+            android:id="@+id/language"
+            android:icon="@drawable/worlwide"/>
+
+
+    </group>
+
+</menu>

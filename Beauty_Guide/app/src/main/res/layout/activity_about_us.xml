@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AboutUs">
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Beauty Guide is an informational application designed for everyone. If you want to find nearby beauty salons then this is made right for you. You can simply click on the map and find the nearest salons and discover everything connected with reviews and services. We are here to guide you in mysterious beauty world. Stay tuned with Beauty Guide."
+    android:textSize="25dp"/>
+</android.support.constraint.ConstraintLayout>
